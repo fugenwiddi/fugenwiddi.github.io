@@ -3,82 +3,25 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>FugenWiddi – Ihr Fugenfachbetrieb aus Pforzheim</title>
+<title>FugenWiddi – Fugenfachbetrieb Pforzheim</title>
 <meta name="description" content="FugenWiddi – Ihr Fugenfachbetrieb aus Pforzheim. Silikonfugen nach DIN 18540, Fensterfugen, Badfugen, Bodenfugen, PU-Fugen für Betonfertigteile und Acrylfugen." />
+<meta name="keywords" content="Fugenfachbetrieb Pforzheim, Silikonfugen, Badfugen, Fensterfugen, Acrylfugen, PU Fugen" />
+
+
 <style>
-body {
-margin: 0;
-font-family: Arial, Helvetica, sans-serif;
-line-height: 1.6;
-color: #333;
-background-color: #f7f7f7;
-}
-header {
-background: #1f2937;
-color: #fff;
-padding: 2rem 1rem;
-text-align: center;
-}
-header h1 {
-margin: 0;
-font-size: 2.2rem;
-}
-header p {
-margin-top: 0.5rem;
-font-size: 1.1rem;
-}
-nav {
-background: #111827;
-padding: 0.5rem;
-text-align: center;
-}
-nav a {
-color: #fff;
-margin: 0 0.75rem;
-text-decoration: none;
-font-weight: bold;
-}
-nav a:hover {
-text-decoration: underline;
-}
-.container {
-max-width: 1000px;
-margin: auto;
-padding: 2rem 1rem;
-background: #fff;
-}
-h2 {
-color: #1f2937;
-margin-top: 2rem;
-}
-ul {
-padding-left: 1.2rem;
-}
-.services li {
-margin-bottom: 0.5rem;
-}
-.highlight {
-background: #e5e7eb;
-padding: 1rem;
-border-left: 4px solid #1f2937;
-margin: 1.5rem 0;
-}
-footer {
-background: #1f2937;
-color: #fff;
-text-align: center;
-padding: 1.5rem 1rem;
-margin-top: 2rem;
-font-size: 0.9rem;
-}
-.contact p {
-margin: 0.3rem 0;
-}
-@media (max-width: 600px) {
-header h1 {
-font-size: 1.8rem;
-}
-}
+body { margin:0; font-family: Arial, Helvetica, sans-serif; background:#f7f7f7; color:#333; }
+header { background:#1f2937; color:#fff; padding:2rem 1rem; text-align:center; }
+nav { background:#111827; text-align:center; padding:0.6rem; }
+nav a { color:#fff; margin:0 0.8rem; text-decoration:none; font-weight:bold; }
+nav a:hover { text-decoration:underline; }
+.container { max-width:1000px; margin:auto; background:#fff; padding:2rem 1rem; }
+h1,h2 { color:#1f2937; }
+ul { padding-left:1.2rem; }
+.highlight { background:#e5e7eb; padding:1rem; border-left:4px solid #1f2937; margin:1.5rem 0; }
+footer { background:#1f2937; color:#fff; text-align:center; padding:1.5rem; font-size:0.9rem; }
+iframe { width:100%; border:0; height:300px; }
+.btn-whatsapp { display:inline-block; margin-top:1rem; background:#25D366; color:#fff; padding:0.7rem 1.2rem; border-radius:5px; text-decoration:none; font-weight:bold; }
+.btn-whatsapp:hover { opacity:0.9; }
 </style>
 </head>
 <body>
@@ -92,13 +35,74 @@ font-size: 1.8rem;
 
 <nav>
 <a href="#leistungen">Leistungen</a>
-<a href="#ueber-uns">Über uns</a>
 <a href="#kontakt">Kontakt</a>
+<a href="#impressum">Impressum</a>
+<a href="#datenschutz">Datenschutz</a>
 </nav>
 
 
 <main class="container">
 
 
-<section id="ueber-uns">
-<h2>Über FugenWiddi</h2>
+<section id="leistungen">
+<h2>Unsere Leistungen</h2>
+<ul>
+<li>Silikonfugen jeglicher Art (nach DIN 18540)</li>
+<li>Fensterfugen innen & außen</li>
+<li>Badfugen (Dusche, Wanne, Waschbecken)</li>
+<li>Bodenfugen</li>
+<li>Betonfertigteile – PU-Fugen</li>
+<li>Acrylfugen</li>
+</ul>
+<div class="highlight">Saubere Ausführung • Hochwertige Materialien • Zuverlässiger Service</div>
+</section>
+
+
+<section id="kontakt">
+<h2>Kontakt</h2>
+<p><strong>FugenWiddi</strong><br>Pforzheim</p>
+<p>Telefon: <em>0176 55676847</em><br>E-Mail: <em>fugenwiddi@web.de</em></p>
+
+
+<a class="btn-whatsapp" href="https://wa.me/4917655676847" target="_blank">WhatsApp schreiben</a>
+
+
+<h3>Standort</h3>
+<iframe src="https://www.google.com/maps?q=Pforzheim&output=embed"></iframe>
+</section>
+
+
+<section id="impressum">
+<h2>Impressum</h2>
+<p><strong>FugenWiddi</strong><br>
+Inhaber: Christian Widmann<br>
+Gneisenaustr. 11<br>
+75177 Pforzheim</p>
+<p>Telefon: 0176 55676847<br>
+E-Mail: fugenwiddi@web.de</p>
+</section>
+
+
+<section id="datenschutz">
+<h2>Datenschutzerklärung</h2>
+<p>Diese Webseite dient der Bereitstellung von Informationen über unser Unternehmen. Personenbezogene Daten werden nur erhoben, wenn Sie uns diese freiwillig mitteilen (z. B. per E-Mail oder WhatsApp).</p>
+<p>Beim Besuch dieser Webseite werden durch den Hosting-Anbieter automatisch Server-Logfiles erhoben. Diese Daten sind nicht bestimmten Personen zuordenbar.</p>
+<p>Sie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer gespeicherten personenbezogenen Daten.</p>
+</section>
+
+
+</main>
+
+
+<footer>
+<p>&copy; <span id="year"></span> FugenWiddi – Fugenfachbetrieb Pforzheim</p>
+</footer>
+
+
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+
+</body>
+</html>
